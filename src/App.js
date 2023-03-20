@@ -3,7 +3,6 @@ import * as THREE from "three";
 import { Canvas, useFrame, useLoader } from "@react-three/fiber";
 import circleImg from "./assets/circle.png";
 import logo from "./assets/logo.glb";
-import lion from "./assets/lion.glb";
 import { Suspense, useCallback, useMemo, useRef } from "react";
 import { OrbitControls } from "@react-three/drei";
 import React from "react";
